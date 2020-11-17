@@ -1,13 +1,13 @@
 body{ color:pink;
 	
 	background-color:#808080
+		
+	margin: 40px;
+	
+	
 } 
 h3{ color:blue;
 	font-family: adamina, helvetica, sans-serif; 
      } 
 p {font-family: Times, serif;}
-note{
-margin: 40px;
-padding:15px;
-border-radius: 20px;
-    }
+
