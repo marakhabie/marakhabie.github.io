@@ -1,11 +1,11 @@
 body{ color:pink;
-	font-family: Times, serif;
+	
 	background-color:#808080
 } 
 h3{ color:blue;
      adamina, helvetica, sans-serif; 
      } 
-     
+p {font-family: Times, serif;}
 note{
 margin: 40px;
 padding:15px;
